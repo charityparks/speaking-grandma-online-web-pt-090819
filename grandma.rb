@@ -3,6 +3,8 @@ def speak_to_grandma(string)
     return "I LOVE YOU TOO PUMPKIN!"
   end
   if string != string.upcase
+    return "HUH?! SPEAK UP, SONNY!"
+  else
     return 
   end
 end
